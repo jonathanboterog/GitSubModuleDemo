@@ -1,0 +1,3 @@
+[submodule "GitSubModuleLib"]
+	path = GitSubModuleLib
+	url = https://github.com/jonathanboterog/GitSubModuleLib.git
